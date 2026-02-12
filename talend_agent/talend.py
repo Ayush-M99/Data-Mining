@@ -6,7 +6,7 @@ import numpy as np
 OLD_SAMPLE = r"C:\Users\Lenovo\Documents\Projects\Ss_name_chhange\old_patch.jpeg"
 NEW_PATCH = r"C:\Users\Lenovo\Documents\Projects\Ss_name_chhange\patch4.jpeg"
 
-# ✅ NEW: output folder
+
 OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -58,7 +58,7 @@ def process(img_path):
 
         count += 1
 
-    # ✅ ONLY CHANGE HERE
+
     out = os.path.join(OUTPUT_DIR, "fixed_" + os.path.basename(img_path))
 
     cv2.imwrite(out, img)
