@@ -6,10 +6,8 @@ import numpy as np
 OLD_SAMPLE = r"C:\Users\Lenovo\Documents\Projects\Ss_name_chhange\old_patch.jpeg"
 NEW_PATCH = r"C:\Users\Lenovo\Documents\Projects\Ss_name_chhange\patch4.jpeg"
 
-
 OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-
 
 old_patch = cv2.imread(OLD_SAMPLE)
 new_patch = cv2.imread(NEW_PATCH)
