@@ -15,6 +15,14 @@ Make sure:
 * The registration number appears only once
 * No duplicates elsewhere in the screenshot
 
+## 📸 RapidMiner – Before vs After
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/138c5e0d-dcb0-41a1-b014-e0f2d2ec4e34" width="45%" />
+  <img src="https://github.com/user-attachments/assets/56a81428-e66a-4fbb-9e96-6cc16a120210" width="45%" />
+</p>
+
+
 ---
 
 ### Talend
@@ -31,6 +39,14 @@ Because Talend uses:
 The script may leave **1–4 registration numbers unedited**.
 
 If that happens, it's usually faster to manually edit the number directly inside Talend.
+
+## 📸 Talend – Before vs After
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/980d2dfb-71c6-46d6-a79e-df137cc24aa2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/72d3a73f-3200-4486-bf70-d3962e2e14ca" width="45%" />
+  
+</p>
 
 ---
 
