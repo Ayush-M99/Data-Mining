@@ -2,7 +2,7 @@ import cv2
 import glob
 import os
 
-PATCH_FILE = "patch3.jpeg"
+PATCH_FILE = "rapidminer_agent/rapidminer_patch.jpeg"
 
 patch = cv2.imread(PATCH_FILE)
 
